@@ -1,0 +1,4 @@
+topic:
+  create-event-topic: async-sneaker
+kafka:
+  bootstrap-server: localhost:9092
