@@ -1,7 +1,7 @@
-package com.demo.springkafkademo.configuration;
+package org.atk.springkafkademo.configuration;
 
-import com.demo.springkafkademo.dto.Sneaker;
-import com.demo.springkafkademo.properties.KafkaConfigProperties;
+import org.atk.springkafkademo.dto.Sneaker;
+import org.atk.springkafkademo.properties.KafkaConfigProperties;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.context.annotation.Bean;

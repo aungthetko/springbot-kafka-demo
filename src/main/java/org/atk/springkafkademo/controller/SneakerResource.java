@@ -1,8 +1,8 @@
-package com.demo.springkafkademo.controller;
+package org.atk.springkafkademo.controller;
 
-import com.demo.springkafkademo.configuration.SneakerTopicConfiguration;
-import com.demo.springkafkademo.dto.Sneaker;
-import com.demo.springkafkademo.producer.SneakerEventProducer;
+import org.atk.springkafkademo.configuration.SneakerTopicConfiguration;
+import org.atk.springkafkademo.dto.Sneaker;
+import org.atk.springkafkademo.producer.SneakerEventProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

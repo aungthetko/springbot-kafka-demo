@@ -1,4 +1,15 @@
+server:
+  port: 9999
+
 topic:
   create-event-topic: async-sneaker
 kafka:
   bootstrap-server: localhost:9092
+
+keycloak:
+  config:
+    protocol: "http"
+    host: "localhost"
+    port: "8080"
+    base-path: "/realms/external-utilities"
+    jwt-set-uri: "/protocol/openid-connect/token"

@@ -1,7 +1,7 @@
-package com.demo.springkafkademo.producer.impl;
+package org.atk.springkafkademo.producer.impl;
 
-import com.demo.springkafkademo.dto.Sneaker;
-import com.demo.springkafkademo.producer.SneakerEventProducer;
+import org.atk.springkafkademo.dto.Sneaker;
+import org.atk.springkafkademo.producer.SneakerEventProducer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

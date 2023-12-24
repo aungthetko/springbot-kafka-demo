@@ -1,4 +1,4 @@
-package com.demo.springkafkademo.configuration;
+package org.atk.springkafkademo.configuration;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.demo.springkafkademo;
+package org.atk.springkafkademo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

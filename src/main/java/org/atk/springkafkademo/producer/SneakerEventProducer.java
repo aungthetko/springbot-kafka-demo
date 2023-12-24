@@ -1,6 +1,6 @@
-package com.demo.springkafkademo.producer;
+package org.atk.springkafkademo.producer;
 
-import com.demo.springkafkademo.dto.Sneaker;
+import org.atk.springkafkademo.dto.Sneaker;
 
 public interface SneakerEventProducer {
 

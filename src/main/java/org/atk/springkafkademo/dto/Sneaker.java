@@ -1,4 +1,4 @@
-package com.demo.springkafkademo.dto;
+package org.atk.springkafkademo.dto;
 
 import lombok.*;
 
